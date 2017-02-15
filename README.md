@@ -6,4 +6,4 @@ Foo.
 
 Bar.
 
-Qux.
+Bux.
