@@ -7,3 +7,5 @@ Foo.
 Bar.
 
 Bux.
+
+Baz.
