@@ -5,3 +5,7 @@ Hello, world.
 Foo.
 
 Bar.
+
+Baz.
+
+Bux.
